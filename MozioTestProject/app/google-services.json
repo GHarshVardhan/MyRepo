@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "765228283405",
+    "firebase_url": "https://moziotestproject.firebaseio.com",
+    "project_id": "moziotestproject",
+    "storage_bucket": "moziotestproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765228283405:android:8e6d4d648c91fd5a",
+        "android_client_info": {
+          "package_name": "com.example.harsh.moziotestproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765228283405-1a2ll3n9h3kativ2odbcv1l3j219nt17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBpkWyLYAai-KI-JIIqhF5W75jkGkmKmM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

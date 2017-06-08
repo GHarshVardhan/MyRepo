@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MozioTestProject</string>
+    <string name="textview">Mozio</string>
+    <string name="areyou_text">Are You A........</string>
+    <string name="physician_text">Physician</string>
+    <string name="patient_text">Patient</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="answer_the_following_questions">Answer the following questions to recognize the probability of Todd’s Syndrome....</string>
+    <string name="migraine_string">Do you have migraine..?</string>
+    <string name="age_string">Is your age near 15..?</string>
+    <string name="gender_string">Are you a male..?</string>
+    <string name="done">Done</string>
+    <string name="have_you_ever_use_hallucinogenic_drugs">Have you ever used hallucinogenic drugs..?</string>
+    <string name="condition">Condition</string>
+    <string name="date_and_time"><![CDATA[Date & Time]]></string>
+    <string name="severity_level">Severity Level</string>
+    <string name="skip">Skip</string>
+    <string name="reords">Records</string>
+    <string name="name">Name</string>
+</resources>
